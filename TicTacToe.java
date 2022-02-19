@@ -1,3 +1,7 @@
+//Tic-Tac-Toe coded in Java
+//Date: February 18th, 2022
+//Author: Nicole Fung
+
 import java.util.Scanner;
 
 class Main {
